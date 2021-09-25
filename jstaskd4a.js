@@ -196,13 +196,13 @@ for(let i=0; i<=7; i++) {
     console.log(output);
 }
 
-// //2.
-// var myarray = [11,22,33,44,55];
-// var count = 0;
-// if(myarray[count] !== 0){
-//     count++;
-// }
-// console.log(count);
+//2.
+var myarray = [11,22,33,44,55];
+var count = 0;
+if(myarray[count] !== 0){
+    count++;
+}
+console.log(count);
 
 //3.
 let foods = ["Cake","Cookie","Fruit","Eggs","Meat","Nuts","Seeds","Veggies","Seafood","Grains","Bread","Biscuit","Milk","Chicken","Idly","Chappathi","Wheat","Parotta","Noodles","Dosa"];
